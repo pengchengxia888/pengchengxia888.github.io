@@ -1,6 +1,6 @@
 # Pengcheng Xia
 
-Email: xiaopengcheng@striding.ai
+Email: xiapengcheng@striding.ai
 
 Affiliation: Striding.ai
 
